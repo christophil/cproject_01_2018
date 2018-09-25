@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1536918072 source:z:\tps\projet01\main_menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1536917113 source:z:\tps\projet01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main_menu.h"
+
+1536918158 z:\tps\projet01\main_menu.h
+
+1537892592 source:z:\c\projets\projet01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main_menu.h"
+
+1537892693 z:\c\projets\projet01\main_menu.h
+
+1537892925 source:z:\c\projets\projet01\main_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"main_menu.h"
+	"person.h"
+	"file.h"
+
+1536918317 z:\c\projets\projet01\constants.h
+
+1537892721 z:\c\projets\projet01\person.h
+
+1537892846 source:z:\c\projets\projet01\file.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	"file.h"
+	"person.h"
+	"connected_menu.h"
+
+1537892691 z:\c\projets\projet01\file.h
+	"person.h"
+
+1537892956 source:z:\c\projets\projet01\connected_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	"main_menu.h"
+	"file.h"
+	"person.h"
+	"connected_menu.h"
+
+1537890000 z:\c\projets\projet01\connected_menu.h
+	<unistd.h>
+	<string.h>
+	"file.h"
+	"person.h"
+
